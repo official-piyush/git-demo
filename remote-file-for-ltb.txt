@@ -1,2 +1,3 @@
 Remote File for LTB
 Edited for using git pull.
+Edited for using git push.
